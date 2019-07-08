@@ -1,0 +1,196 @@
+,code,meaning,count
+0,10-0,Caution,0
+1,10-1,Reception poor,0
+2,10-2,Reception good,0
+3,10-3,Stop transmitting,0
+4,10-4,Message received - understood,1
+5,10-5,Relay message,0
+6,10-6,Change channel,0
+7,10-7,Out of service,0
+8,10-7A,Out of service - home,0
+9,10-7B,Out of service - personal,0
+10,10-8,In service,0
+11,10-9,Repeat message,0
+12,10-10,Off duty,0
+13,10-10A,Off duty - home,0
+14,10-11,Identify frequency,0
+15,10-12,Visitor(s) present,0
+16,10-13,Weather and road advice,0
+17,10-14,Citizen w/suspect,0
+18,10-15,Prisoner in custody,0
+19,10-16,Pick up prisoner,0
+20,10-17,Request for gasoline,0
+21,10-18,Equipment exchange,0
+22,10-19,Return(ing) to station,0
+23,10-20,Location,0
+24,10-21,Telephone,0
+25,10-21A,Advise home I will return at:,0
+26,10-22,Disregard last assignment,0
+27,10-23,Stand by,0
+28,10-24,Request car-to-car transmit,0
+29,10-25,Do you have contact with:,0
+30,10-26,Clear,0
+31,10-27,D.D.L. report,0
+32,10-28,Registration request,0
+33,10-29,Check for wants,0
+34,10-29F,Subject wanted - felony,0
+35,10-29H,Hazard potential from subject,0
+36,10-29M,Subject wanted - Misdemeanor,0
+37,10-29V,Vehicle wanted,0
+38,10-30,Doesn't conform to regulations,0
+39,10-32,Drowning,0
+40,10-33,Alarm sounding - audible,0
+41,10-34,Assist at office,0
+42,10-35,Time check,0
+43,10-36,Confidential information,0
+44,10-37,Identify operator,0
+45,10-39,Can () come to the radio?,0
+46,10-40,Is () available for phone call?,0
+47,10-42,Check the welfare of/at:,0
+48,10-43,Call a doctor,0
+49,10-45,Condition of patient?,0
+50,10-45A,Good,0
+51,10-45B,Serious,0
+52,10-45C,Critical,0
+53,10-45D,Dead,0
+54,10-49,Proceed to:,0
+55,10-50,Under influence of drugs,0
+56,10-51,Drunk,0
+57,10-52,Resuscitator,0
+58,10-53,Man down,0
+59,10-54,Possible dead body,0
+60,10-55,Coroner case,0
+61,10-56,Suicide,0
+62,10-56A,Suicide attempt,0
+63,10-57,Missing person,0
+64,10-59,Security check,0
+65,10-60,Lock-out,0
+66,10-61,Miscellaneous public service,0
+67,10-62,Meet a citizen,0
+68,10-62A,Take a report from a citizen,0
+69,10-62B,Civilian standby,0
+70,10-63,Prepare to copy,0
+71,10-64,Found property,0
+72,10-66,Suspicious person,0
+73,10-67,Person calling for help,0
+74,10-68,Telephone for police,0
+75,10-70,Prowler,0
+76,10-71,Shooting,0
+77,10-72,Gun involved,0
+78,10-73,How do you receive?,0
+79,10-79,Bomb threat,0
+80,10-80,Explosion,0
+81,10-86,Any radio traffic?,0
+82,10-88,Assume post,0
+83,10-91,Animal,0
+84,10-91A,Animal - stray,0
+85,10-91B,Animal - noisy,0
+86,10-91C,Animal - injured,0
+87,10-91D,Animal - dead,0
+88,10-91E,Animal - bite,0
+89,10-91G,Animal - pickup,0
+90,10-91J,Animal - pickup collect,0
+91,10-91L,Animal - leash law violation,0
+92,10-91V,Animal - vicious,0
+93,10-95,Need ID tech unit,0
+94,10-97,Arrived at scene,0
+95,10-98,Available to assign,0
+96,11-10,Take report,0
+97,11-24,Abandoned vehicle,0
+98,11-25,Traffic hazard,0
+99,11-26,Abandoned bicycle,0
+100,11-27,10-27 W/driver held,0
+101,11-28,10-28 W/driver held,0
+102,11-40,Advise if ambulance needed,0
+103,11-41,Ambulance needed,0
+104,11-42,No ambulance needed,0
+105,11-44,Deceased person (Coroner Req'd),0
+106,11-48,Furnish transportation,0
+107,11-51,Escort,0
+108,11-52,Funeral detail,0
+109,11-54,Suspicious vehicle,0
+110,11-55,Officer being followed by auto,0
+111,11-56,11-55 W/dangerous persons,0
+112,11-57,Unidentified auto at assignments,0
+113,11-58,Radio monitored - use phone,0
+114,11-59,Intensive attention: high hazard - business areas,0
+115,11-60,Attack in high hazard area,0
+116,11-65,Signal light out,0
+117,11-66,Defective signal light,0
+118,11-78,Aircraft accident,0
+119,11-79,Accident - Ambulance sent,0
+120,11-80,Accident - Major injuries,0
+121,11-81,Accident - Minor injuries,0
+122,11-82,Accident - No injuries,0
+123,11-83,Accident - No detail,0
+124,11-84,Direct traffic,0
+125,11-85,Tow truck required,0
+126,11-94,Pedestrian stop,0
+127,11-95,Routine traffic stop,0
+128,11-96,Checking suspicious vehicle,0
+129,11-97,Time/security check on patrol,0
+130,11-98,Meet:,0
+131,11-99,Officer needs help!,0
+132,187,Homicide,0
+133,207,Kidnapping,1
+134,207A,Kidnapping attempt,0
+135,211,Robbery,0
+136,211A,Robbery alarm,0
+137,211S,Robbery alarm - silent,0
+138,217,Assault with intent to murder,0
+139,240,Assault,0
+140,242,Battery,0
+141,245,Assault with a deadly weapon,0
+142,246,Shooting at inhabited dwelling,0
+143,261,Rape,0
+144,261A,Attempted rape,0
+145,273A,Child neglect,0
+146,273D,Wife beating - Felony,0
+147,288,Lewd conduct,0
+148,311,Indecent exposure,0
+149,314,Indecent exposure,0
+150,374B,Illegal dumping,0
+151,390,Drunk,0
+152,390D,Drunk - unconscious,0
+153,415,Disturbance,0
+154,417,Person with a gun,2
+155,417A,Person with a knife,0
+156,459,Burglary,0
+157,459A,Burglar alarm,0
+158,459S,Burglar alarm - silent,0
+159,470,Forgery,0
+160,480,Hit and run - Felony,0
+161,481,Hit and run - Misdemeanor,0
+162,484,Petty theft,0
+163,487,Grand theft,0
+164,488,Petty theft,0
+165,502,Drunk Driving,0
+166,503,Auto theft,1
+167,504,Tampering with a vehicle,0
+168,505,Reckless driving,0
+169,507,Public nuisance,0
+170,510,Speeding or racing vehicles,0
+171,586,Illegal parking,0
+172,594,Malicious mischief,0
+173,595,Runaway car,0
+174,604,Throwing missiles,0
+175,647,Lewd conduct,0
+176,653M,Threatening phone calls,0
+177,5150,Mental case,0
+178,10851,Auto theft,0
+179,10852,Tampering with vehicle,0
+180,20001,Hit and run - Felony,0
+181,20002,Hit and run - Misdemeanor,0
+182,20007,Hit and run - Unattended,0
+183,21958,Drunk pedestrian on roadway,0
+184,22350,Speeding,0
+185,22500,Illegal parking,0
+186,23101,Drunk driving - injuries,0
+187,23102,Drunk driving,0
+188,23103,Reckless driver,0
+189,23104,Reckless driver,0
+190,23105,Driver under narcotics,0
+191,23109,Racing,0
+192,23110,Person throwing objects at vehicles,0
+193,23151,Drunk driving - injuries,0
+194,23152,Drunk driver,0

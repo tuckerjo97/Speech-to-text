@@ -1,0 +1,10 @@
+Transcription for segment segments/1audio_segment.wav: medical emergency
+Transcription for segment segments/2audio_segment.wav: Couldn't transcribe
+Transcription for segment segments/3audio_segment.wav: Couldn't transcribe
+Transcription for segment segments/4audio_segment.wav: Couldn't transcribe
+Transcription for segment segments/5audio_segment.wav: Couldn't transcribe
+Transcription for segment segments/6audio_segment.wav: Couldn't transcribe
+Transcription for segment segments/7audio_segment.wav: medical emergency
+Transcription for segment segments/8audio_segment.wav: Couldn't transcribe
+Transcription for segment segments/9audio_segment.wav: Couldn't transcribe
+Transcription for segment segments/10audio_segment.wav: Couldn't transcribe

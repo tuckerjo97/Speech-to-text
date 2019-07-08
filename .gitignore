@@ -1,0 +1,11 @@
+bin/
+__pychache__/
+filter_playground.py
+playground.py
+segments_reduced/
+include/
+pyvenv.cfg
+segments_reduced_filtered/
+lib/
+segments/
+pip-selfcheck.json
