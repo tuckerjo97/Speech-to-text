@@ -9,3 +9,4 @@ segments_reduced_filtered/
 lib/
 segments/
 pip-selfcheck.json
+.DS_store
