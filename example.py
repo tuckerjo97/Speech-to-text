@@ -5,7 +5,7 @@ import src.preprocess
 import src.transcriber
 import src.parser
 import os
-
+import pydub
 
 class Example:
     def __init__(self):
